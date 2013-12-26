@@ -112,22 +112,22 @@ readyState(function() {
     $.vegas('slideshow', {
         delay: 10000,
         backgrounds: [{
-            src: 'img/background/ripley-background-1',
+            src: 'img/background/ripley-background-1.jpg',
             fade: 2000
         }, {
-            src: 'img/background/ripley-background-2',
+            src: 'img/background/ripley-background-2.jpg',
             fade: 2000
         }, {
-            src: 'img/background/ripley-background-3',
+            src: 'img/background/ripley-background-3.jpg',
             fade: 2000
         }, {
-            src: 'img/background/ripley-background-4',
+            src: 'img/background/ripley-background-4.jpg',
             fade: 2000
         }, {
-            src: 'img/background/ripley-background-5',
+            src: 'img/background/ripley-background-5.jpg',
             fade: 2000
         }, {
-            src: 'img/background/ripley-background-6',
+            src: 'img/background/ripley-background-6.jpg',
             fade: 2000
         }]
     })('overlay');
