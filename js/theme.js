@@ -32,7 +32,7 @@ readyState(function() {
         if ($("#room-booking").length) {
 
             $("#room-booking")
-                .after('<div id="video"><iframe src="http://player.vimeo.com/video/70110475" width="275" height="154" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>');
+                .after('<div id="video"><iframe src="//player.vimeo.com/video/72974428" width="300" height="168" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>');
         }
     }
 
@@ -57,7 +57,7 @@ readyState(function() {
      */
     function setHashSilently(hash) {
         hasher.changed.active = false;
-        hasher.setHash(hash);
+        hasher.setHash(hash);68
         hasher.changed.active = true;
     }
 
