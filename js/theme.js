@@ -112,13 +112,13 @@ readyState(function() {
     $.vegas('slideshow', {
         delay: 10000,
         backgrounds: [{
-            src: 'img/background/ripley-background-1.jpg',
+            src: 'img/background/ripley-background-7.jpg',
             fade: 2000
         }, {
             src: 'img/background/ripley-background-2.jpg',
             fade: 2000
         }, {
-            src: 'img/background/ripley-background-3.jpg',
+            src: 'img/background/ripley-background-8.jpg',
             fade: 2000
         }, {
             src: 'img/background/ripley-background-4.jpg',
