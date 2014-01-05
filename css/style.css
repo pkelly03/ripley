@@ -211,6 +211,10 @@ ul.feature li
     background-color: rgba(0, 0, 0, 0.8);
 }
 
+#footer .email-and-facebook {
+    text-align: right;
+}
+
 #footer .facebook {
     padding-right: 20px;
 }
@@ -300,6 +304,10 @@ ul.feature li
         -moz-border-radius-bottomleft: 10px;
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
+}
+
+.room-content {
+
 }
 
 .footer-content
@@ -510,6 +518,13 @@ input.check_availability {
 /* Normal desktop */
 @media (min-width: 980px) and (max-width: 1199px)
 {
+    .room-image-slider {
+        padding-left: 60px;
+    }
+
+    .room-content {
+        padding-top: 50px;
+    }
 }
  
 /* Portrait tablet to landscape and desktop */
@@ -587,6 +602,15 @@ input.check_availability {
     .home-page-image-slider {
         padding: 50px;
     }
+
+    .room-image-slider {
+        padding-left: 60px;
+    }
+
+    .room-content {
+        padding-top: 50px;
+    }
+
 
 }
  
