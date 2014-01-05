@@ -584,6 +584,10 @@ input.check_availability {
         filter: none;
     }
 
+    .home-page-image-slider {
+        padding: 50px;
+    }
+
 }
  
 /* Landscape phone to portrait tablet */
